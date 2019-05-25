@@ -11,8 +11,9 @@
 
 # Yapılacaklar
 
-	Şarkıların Hash değerlerini veri tabanına kaydedip arama işlemini veri tabanı üzerinden gerçekleştirmek.
 	Sha1 yerine başka şifreleme metodları incelenip sonuca olan etkisini incelemek.
+	İşlemleri fonksiyon çağırarak gerçekleştirmek.
+	Şarkıların Hash değerlerini veri tabanına kaydedip arama işlemini veri tabanı üzerinden gerçekleştirmek.
 	Arayüz tasarlamak.
 
 	
